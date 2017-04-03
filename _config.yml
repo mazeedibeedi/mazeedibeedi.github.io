@@ -12,18 +12,18 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Designer, Developer, Writer, and Dad.</h1>
+     <h1>Taking the world on one project at a time</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: "a.almazidi92@gmail.com"# Full email address, e.g. "sam@example.com"
+  email_address: "a.almazidi92@gmail.com"# Full email address
   behance:
   bitbucket:
-  dribbble: "joeykirk"
-  facebook: "joeykirk"
+  dribbble:
+  facebook: 
   flickr:
   github: "mazeedibeedi"
   google_plus:
